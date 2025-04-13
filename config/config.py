@@ -35,11 +35,11 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "AcelyaMusicBot")
 
 OWNER_ID = int(getenv("OWNER_ID", "7675940993"))
 
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+HEROKU_API_KEY = getenv("HEROKU_API_KEY","HRKU-c423ba5c-2d07-427d-8b07-8279e374f8f3")
 
 BOT_ID = getenv("BOT_ID", "7090522217")
 
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
+HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "mad boy")
 
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Madboy0700/A")
 
