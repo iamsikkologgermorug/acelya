@@ -44,7 +44,7 @@ BOT_ID = getenv("BOT_ID", "7090522217")
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Madboy0700/A")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Madboy0700/de")
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
