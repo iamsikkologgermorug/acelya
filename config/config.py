@@ -48,7 +48,7 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Madboy0700/ce")
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
-GIT_TOKEN = getenv("GIT_TOKEN", "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")
+GIT_TOKEN = getenv("GIT_TOKEN", "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")
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AcelyaDuyuruu")
 
