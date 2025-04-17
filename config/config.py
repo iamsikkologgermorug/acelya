@@ -44,7 +44,7 @@ BOT_ID = getenv("BOT_ID", "7090522217")
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Madboy0700/e")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Madboy0700/ce")
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -70,7 +70,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Madboy0700/e")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Madboy0700/ce")
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "16c87464675546abae618d6a218d4448")
 
