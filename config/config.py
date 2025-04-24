@@ -21,22 +21,22 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "27419569"))
 API_HASH = getenv("API_HASH", "191b4c03782dd4389bbc5d772bd251d4")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "6558463329:AAGZ93x9wRCgxi7NXmg6-855tkhRnYT6jps")
+BOT_TOKEN = getenv("BOT_TOKEN", "7759771703:AAFnUxJpgjYHLulHkBh15lar9hR9zkAyxec")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://gezginbey1:mytmyt4747@cluster0.ha1v0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://madboy123:Şifreamın@madboy07.r1nef.mongodb.net/?retryWrites=true&w=majority&appName=madboy07")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002352102473"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002332565145"))
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "AcelyaMusicBot")
 
 
 
 # Eğer birden fazla OWNER_ID varsa, bunları liste olarak tanımlayın
-OWNER_ID = int(getenv("OWNER_ID", "1860611760"))
+OWNER_ID = int(getenv("OWNER_ID", "7675940993"))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
@@ -48,7 +48,7 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Madboy0700/ce")
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
-GIT_TOKEN = getenv("GIT_TOKEN", "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")
+GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AcelyaDuyuruu")
 
@@ -91,9 +91,9 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 # https://www.gbmb.org/mb-to-bytes
 
 
-STRING1 = getenv("STRING_SESSION", "BAFgDpUAQlNc1kFB2_ss7YkM0-rkfmRTRnzUxXoBOijXeov71XOYP2jFrIavJYzNBoa9ShtMR4H11yTFlz4FIhOD6x-N3Z11OBV9ewzREsruWPT9BI-Ksr0-8iX7GbbnZOF7XGfsG7yWbnJ5C8onRdmJCVLn69oB_WjvpiC0bgwTEzoFP_YqKlYpO-uULxyMA8EHAOshei7O3K7JDK5EUSGkpLVbZ46-3gk6uodz6v32Q_XGj37AOodiuVdWnQNk3HXqPbmJ06O_AKpB4muJ-wS2wd_XrnXlW-fK71x-QjJ_7kGnOOY_GiQnDYzDUhB5LriLszkNGfT1016RAa03N4CBrD0h3gAAAAHNoozxAA")
+STRING1 = getenv("STRING_SESSION", None)
 
-STRING2 = getenv("STRING_SESSION2", None)
+STRING2 = getenv("STRING_SESSION2", "BAE-RK0Am5njv7H0P5V0FuMARHa2pqVRRrIyYV6P8rH1yh24O4u1A02hs2f1OEqaauXqqvCpr1PybjmZykagc5P6HK_1NeWBlTkBcHC_cqmo9_0YnAFcSVbfOvFRz8bqgHjDsSS0X6lWXvWfXfMUrWbpZRzuI7ieFBUv9_qsL0LikRymF1fvhLqmCiehMqQwLy33a8q2f0jbLvRVSY_DfXhCD8-5ve-qJhMTmZ4aPtY1datly290zdwQT3ww66aBjqijBZhIh_xnUcADZKasttqR8lLvGCEct5nsexB80PgUSv9pvUrJmZAoLh6Tj7peoYBRD8qsHjgan-h6UpjHSbXESqvW2QAAAAHnusGDAA")
 
 STRING3 = getenv("STRING_SESSION3", None)
 
