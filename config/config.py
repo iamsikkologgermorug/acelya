@@ -21,15 +21,15 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "27419569"))
 API_HASH = getenv("API_HASH", "191b4c03782dd4389bbc5d772bd251d4")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "7759771703:AAFnUxJpgjYHLulHkBh15lar9hR9zkAyxec")
+BOT_TOKEN = getenv("BOT_TOKEN", "8054502326:AAEdqMYXdre7-WHqUYZd6Rde0K8X4rH5gQs")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://madboy123:Şifreamın@madboy07.r1nef.mongodb.net/?retryWrites=true&w=majority&appName=madboy07")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://gezginbey1:mytmyt4747@cluster0.ha1v0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002332565145"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002182187594"))
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "AcelyaMusicBot")
 
@@ -40,7 +40,7 @@ OWNER_ID = int(getenv("OWNER_ID", "7675940993"))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
-BOT_ID = getenv("BOT_ID", "7090522217")
+BOT_ID = getenv("BOT_ID", "8054502326")
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
@@ -50,9 +50,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AcelyaDuyuruu")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AcelyaDuyuru")
 
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/AcelyaDuyuruu")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/AcelyaDuyuru")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 
@@ -70,7 +70,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Madboy0700/ce")
+GITHUB_REPO = getenv("GITHUB_REPO", None)
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "16c87464675546abae618d6a218d4448")
 
@@ -91,9 +91,9 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 # https://www.gbmb.org/mb-to-bytes
 
 
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "BABBdtEAKU1CCvQB7k4PNqMn5kLXLKoXS8qoYTUtXyHBN45BrpM9LmtlWFJkQtP4Mm45yXdKxVMgC--QrzjsOBY__tPnPWzK8APy-6AX0Auyeqh6p9nfkzPAglkbYO0ypVVC0vlzn1qZbqA8zI81y9FfiegqbJvwZqqZA4dY0UvcPe65r0jGpcKpv48OH8EjaZlp8XfZf8uRA1i-ym3LL-WAWQJf48GDKiZ-pKn0V_VCASQ-DcE00ag_O_CDHg-qNIwS6Jh-FKlMqNIguu0xqsy3UXbfrl-AR46qAxbtJvTCKB9rz79wJZgTzF4E1ZSxMItWLYRL6ldL86vSY7eBpz3HTfaLqwAAAAHkkLiYAA")
 
-STRING2 = getenv("STRING_SESSION2", "BAE-RK0Am5njv7H0P5V0FuMARHa2pqVRRrIyYV6P8rH1yh24O4u1A02hs2f1OEqaauXqqvCpr1PybjmZykagc5P6HK_1NeWBlTkBcHC_cqmo9_0YnAFcSVbfOvFRz8bqgHjDsSS0X6lWXvWfXfMUrWbpZRzuI7ieFBUv9_qsL0LikRymF1fvhLqmCiehMqQwLy33a8q2f0jbLvRVSY_DfXhCD8-5ve-qJhMTmZ4aPtY1datly290zdwQT3ww66aBjqijBZhIh_xnUcADZKasttqR8lLvGCEct5nsexB80PgUSv9pvUrJmZAoLh6Tj7peoYBRD8qsHjgan-h6UpjHSbXESqvW2QAAAAHnusGDAA")
+STRING2 = getenv("STRING_SESSION2", None)
 
 STRING3 = getenv("STRING_SESSION3", None)
 
